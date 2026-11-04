@@ -76,3 +76,30 @@ Paper-based health records in Sierra Leone are frequently lost, damaged, or left
  END  
 
  ###### screenshot
+
+<img width="703" height="805" alt="image" src="https://github.com/user-attachments/assets/a2747668-4b0b-4a2b-a122-ac75a1a8f361" />
+
+
+
+<img width="1025" height="1251" alt="Doctor_HCW_Flowchart" src="https://github.com/user-attachments/assets/6138eab4-9a8b-4724-9c58-c67ed3f93d06" />
+
+
+
+
+<img width="708" height="879" alt="image" src="https://github.com/user-attachments/assets/6179ef7e-249e-4225-a144-9d38f5403057" />
+
+
+
+
+<img width="814" height="1047" alt="image" src="https://github.com/user-attachments/assets/5a45e607-6384-40bd-9197-62f942ff11c5" />
+
+####### Author
+ANITA VERONICA SAMSUMANA-905006548
+
+
+
+
+
+
+
+ 
