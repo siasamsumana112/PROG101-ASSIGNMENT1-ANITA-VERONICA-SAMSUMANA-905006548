@@ -16,14 +16,14 @@ Is Assignment 1 for programing logic and design about a maternal healthcare app 
 • Rural communities facing the longest travel times and poorest access
 • Families making difficult decisions without clear guidance
 
-#### Proposed Solution
+### Proposed Solution
 Ensures continuous care from pregnancy through the first year of life, even in remote villages. CHWs can intervene early, and critical data follows the patient across facilities 
 eliminating lost records during transfers or home births.
 Converts unpredictable, large emergency expenses into affordable, incremental savings. It removes the heartbreaking choice between seeking care and meeting basic household needs.
 Every healthcare provider has the full, accurate picture they need, right when they need it. This reduces medical errors, avoids repeated tests, and saves precious minutes during labour or acute illness.
 Paper-based health records in Sierra Leone are frequently lost, damaged, or left at a different facility especially during emergencies or patient transfers.
 
- ##### Pseudocode 
+ ### Pseudocode 
  BEGIN
         Open SL PREG CARE
         IF user is not registered THEN
@@ -75,7 +75,7 @@ Paper-based health records in Sierra Leone are frequently lost, damaged, or left
        UNTIL user exits
  END  
 
- ###### screenshot
+ ### screenshot
 
 <img width="703" height="805" alt="image" src="https://github.com/user-attachments/assets/a2747668-4b0b-4a2b-a122-ac75a1a8f361" />
 
@@ -93,7 +93,7 @@ Paper-based health records in Sierra Leone are frequently lost, damaged, or left
 
 <img width="814" height="1047" alt="image" src="https://github.com/user-attachments/assets/5a45e607-6384-40bd-9197-62f942ff11c5" />
 
-####### Author
+#### Author
 ANITA VERONICA SAMSUMANA-905006548
 
 
