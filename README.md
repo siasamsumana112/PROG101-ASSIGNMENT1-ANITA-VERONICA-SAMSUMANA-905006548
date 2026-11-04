@@ -1,6 +1,11 @@
 # PROG101-ASSIGNMENT1-ANITA-VERONICA-SAMSUMANA-905006548
 Is Assignment 1 for programing logic and design about a maternal healthcare app designed mainly for pregnant women
 
+## 1.0 SL PREG CARE
+SL PREG CARE is a proposed healthcare application designed to address key healthcare coordination challenges in Sierra Leone. It is intended to support patients especially pregnant women and newborns community health workers, healthcare professionals, and facilities across both urban and rural areas. 
+The app is built with an offline-first architecture, meaning it continues working during poor network coverage or power outages. It supports SMS, USSD, lightweight mobile data, and local languages (Krio, Mende, and Temne), making healthcare more accessible to people across Sierra Leone.
+The goal is to help citizens receive medical guidance earlier, assist healthcare workers with faster access to patient records, and improve emergency response for mothers, infants, and other patients.
+
 ## 1.1 problem identification
 • Missed appointments: Families often forget antenatal or follow-up visits; there is no simple reminder system
 • Fragmented records: Patient information is mostly paper-based easily lost, damaged, or unavailable when a patient visits a different facility
