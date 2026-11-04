@@ -1,5 +1,5 @@
 # PROG101-ASSIGNMENT1-ANITA-VERONICA-SAMSUMANA-905006548
- Assignment 1 for programing logic and design about a maternal healthcare app primarily designed to improve healthcare access and outcomes, especially for maternal and child health across Sierra Leone, with a special focus on reaching rural and underserved communities where internet connectivity, medical facilities, and doctors are scarce.
+ Assignment 1 for programing logic and design is about a maternal healthcare app primarily designed to improve healthcare access and outcomes, especially for maternal and child health across Sierra Leone, with a special focus on reaching rural and underserved communities where internet connectivity, medical facilities, and doctors are scarce.
 
 ## 1.0 SL PREG CARE
 SL PREG CARE is a proposed healthcare application designed to address key healthcare coordination challenges in Sierra Leone. It is intended to support patients especially pregnant women and newborns community health workers, healthcare professionals, and facilities across both urban and rural areas. 
